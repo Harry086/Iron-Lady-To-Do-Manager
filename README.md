@@ -1,4 +1,4 @@
-# Iron Lady Intern Assignment – Task 2: To-Do Manager
+# Iron Lady To-Do Manager
 
 ## Features
 - Add, edit, delete tasks (CRUD)
